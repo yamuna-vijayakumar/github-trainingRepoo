@@ -1,0 +1,11 @@
+{
+  accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NzIyNTY3MzYsImV4cCI6MTc3MjI2MDMzNn0.vS3a1uoyIjjVp8HSFb_dvDfZw6MB8-gGuPSNZ3kKqsk',
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NzIyNTY3MzYsImV4cCI6MTc3NDg0ODczNn0.T_nNTstrxYLaV-QSpEpKa6rtrT3rk7DHYqvvS1Q7J30',
+  id: 1,
+  username: 'emilys',
+  email: 'emily.johnson@x.dummyjson.com',
+  firstName: 'Emily',
+  lastName: 'Johnson',
+  gender: 'female',
+  image: 'https://dummyjson.com/icon/emilys/128'
+}

@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test --project=chromium --headed",
+    "debug": "npx playwright test --debug"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,6 +17,8 @@
   },
   "dependencies": {
     "allure-commandline": "^2.36.0",
-    "allure-playwright": "^3.4.5"
+    "allure-playwright": "^3.4.5",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.3.1"
   }
 }

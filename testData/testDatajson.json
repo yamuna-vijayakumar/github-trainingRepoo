@@ -1,0 +1,32 @@
+{
+    "data1":{
+        "username":"vijayakumar",
+        "password": "yamuna@123"
+},
+"data2":[
+    {
+        "validuser":"vijayakumar",
+        "validpass":"yamuna@123",
+
+        "invaliduser":"vijay",
+        "invalidpass":"yamuna"
+    },
+    {
+        "blankuser":"",
+         "blankpass":"",
+
+         "validuser":"vijayakumar",
+         "invalidpass":"yamuna"
+    }
+],"data":[
+{
+    "username":"vijayakumar",
+    "password":"yamuna@123"
+}
+]
+
+}
+
+
+
+
